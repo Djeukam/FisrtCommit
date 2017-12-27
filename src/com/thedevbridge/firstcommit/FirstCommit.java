@@ -7,6 +7,7 @@ public class FirstCommit {
         System.out.println("Hello World !");
         
         System.out.println("Hello !");
+        System.out.println("La version 2 est disponible.");
     }
     
 }
